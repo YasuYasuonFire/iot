@@ -41,7 +41,7 @@ def main():
     APPLIANCE_ID = "61924a2e-4b4c-4916-937f-98f2a9069167"
     ON_SIGNAL = "5a3c20d1-4eeb-422b-b716-c3848467d6e3"
     OFF_SIGNAL = "81318538-2c3a-4009-923a-734ba0fcfe4a"
-    INTERVAL = 5  # 制御間隔（秒）
+    INTERVAL = 3  # 制御間隔（秒）
     
     try:
         while True:
